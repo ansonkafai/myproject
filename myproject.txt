@@ -1,3 +1,4 @@
 a test line to myproject.txt on branch test-new-branch
 add a test line to myproject.txt for the testing of pushing local branch to github
 a new line to test git commands of diff|show
+testing undo commits - text line 1
