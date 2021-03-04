@@ -3,3 +3,4 @@ add a test line to myproject.txt for the testing of pushing local branch to gith
 a new line to test git commands of diff|show
 testing undo commits - text line 1
 testing undo commits - text line 2
+test eclipse push changes to github branch
